@@ -1,4 +1,4 @@
-FROM dockerhub.azk8s.cn/shadowsocks/shadowsocks-libev
+FROM shadowsocks/shadowsocks-libev
 
 ENV GATEWAY 172.25.0.1
 
